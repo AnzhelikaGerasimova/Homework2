@@ -1,4 +1,4 @@
-public class Empoyees {
+public class Task3_ProjectEmpoyees {
     public static void main(String[] args) {
         int programmers = 38;
         int testers = 2;

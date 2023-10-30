@@ -1,4 +1,4 @@
-public class Age {
+public class Task5_UniversAge {
     public static void main(String[] args) {
         long universeAge = 13000000000L;
         long humanityAge = 100000L;

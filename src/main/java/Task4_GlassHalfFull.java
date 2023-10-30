@@ -1,4 +1,4 @@
-public class Glass {
+public class Task4_GlassHalfFull {
     public static void main(String[] args) {
         int glassVolume = 300;
         double fullnessPercentage = 45.5;

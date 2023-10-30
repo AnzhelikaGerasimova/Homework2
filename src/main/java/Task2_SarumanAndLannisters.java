@@ -1,4 +1,4 @@
-public class Troops {
+public class Task2_SarumanAndLannisters {
     public static void main(String[] args) {
         int lannister = 50;
         int saruman = 30;

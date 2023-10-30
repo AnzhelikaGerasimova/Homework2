@@ -1,4 +1,4 @@
-public class Buratino {
+public class Task1_BuratinoAndApples {
     public static void main(String[] args) {
         int buratino = 10;
         int carabas = 5;
