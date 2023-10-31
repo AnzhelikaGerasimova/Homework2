@@ -1,3 +1,5 @@
+package MainTasks;
+
 public class Task8_ShirtSale {
     public static void main(String[] args) {
         int shirtPrice = 1500;

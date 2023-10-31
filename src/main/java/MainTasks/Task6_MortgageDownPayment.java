@@ -1,3 +1,5 @@
+package MainTasks;
+
 public class Task6_MortgageDownPayment {
     public static void main(String[] args) {
         long appartmentPrice = 9000000L;

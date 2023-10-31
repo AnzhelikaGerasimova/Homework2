@@ -1,3 +1,5 @@
+package MainTasks;
+
 public class Task4_GlassHalfFull {
     public static void main(String[] args) {
         int glassVolume = 300;

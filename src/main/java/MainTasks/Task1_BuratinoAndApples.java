@@ -1,3 +1,5 @@
+package MainTasks;
+
 public class Task1_BuratinoAndApples {
     public static void main(String[] args) {
         int buratino = 10;

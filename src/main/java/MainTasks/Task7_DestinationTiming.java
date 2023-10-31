@@ -1,3 +1,5 @@
+package MainTasks;
+
 public class Task7_DestinationTiming {
 
     public static void main(String[] args) {

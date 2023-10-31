@@ -1,3 +1,5 @@
+package MainTasks;
+
 public class Task3_ProjectEmpoyees {
     public static void main(String[] args) {
         int programmers = 38;
