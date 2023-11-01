@@ -5,14 +5,15 @@ public class Task8_ShirtSale {
         int shirtPrice = 1500;
         int shirtSelected = 3;
         int discountQuantity = 5;
-        int quantityNeeded = discountQuantity - shirtSelected;
-        int totalPrice = shirtPrice * shirtSelected;
-        int neededShirtPrice = shirtPrice * quantityNeeded;
         double discountPercentage = 20;
+
         double priceWithDiscount = discountQuantity * shirtPrice - (discountQuantity * ((shirtPrice / 100) * discountPercentage));
         double singleDiscount = priceWithDiscount / discountQuantity;
         double savedAmount = (discountQuantity * shirtPrice) - priceWithDiscount;
         double freeFee = savedAmount / shirtPrice;
+        int quantityNeeded = discountQuantity - shirtSelected;
+        int totalPrice = shirtPrice * shirtSelected;
+        int neededShirtPrice = shirtPrice * quantityNeeded;
 
         System.out.println("Цена за одну рубашку: " + shirtPrice + " руб.");
         System.out.println("Количество выбранных рубашек: " + shirtSelected + " шт.");

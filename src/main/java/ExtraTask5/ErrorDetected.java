@@ -36,5 +36,4 @@ public class ErrorDetected {
             this.weight = weight;
         }
     }
-
 }
